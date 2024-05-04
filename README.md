@@ -9,7 +9,7 @@ Contributing
 ----
 Instead of modifying the /dist/*.js JavaScript files directly, you should instead modify the ekko-lightbox.js file and run the grunt task.
 
-Copyright and license
+Copyright and licenses
 ----
 
 Code released under [the MIT license](https://github.com/ashleydw/lightbox/blob/master/LICENSE).
